@@ -32,7 +32,7 @@ def gcd():
 ```
 
 ## Output:
-![solution](gcd.png) 
+![gcd of two number](gcd.png) 
 ![solution](output2.png)
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
